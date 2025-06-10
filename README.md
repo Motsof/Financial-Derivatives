@@ -9,7 +9,7 @@ Este repositorio contiene diversos ejercicios y modelos desarrollados durante el
 Contiene modelos de portafolios construidos con diferentes combinaciones de activos, considerando factores de riesgo, rendimiento y derivados financieros:
 
 * `Portafolio_activos_deuda.xlsm`: Portafolio compuesto por acciones e instrumentos de deuda.
-* `Portafolio_de_inversión_con_Optiones_Put_Call.xlsm`: Portafolio que incluye estrategias con opciones put y call.
+* `Portafolio_de_inversión_con_Opciones_Put_Call.ipynb`: Portafolio que incluye estrategias con opciones put y call.
 * `Portafolios_de_inversión.ipynb`: Análisis cuantitativo y comparativo del portafolio usando Python.
 
 ---
@@ -19,7 +19,7 @@ Contiene modelos de portafolios construidos con diferentes combinaciones de acti
 Modelos enfocados en la creación y simulación de tasas spot para la valuación de instrumentos derivados:
 
 * `Curva_Tasas_Spot.xlsm`: Construcción de curvas de tasa spot a partir de bonos gubernamentales mexicanos.
-* `Simulación_de_tasa_Spot_Calculo_de_Forward_Rates.xlsm`: Simulación de tasas spot y cálculo de tasas forward, útil para la valuación de derivados.
+* `Simulación_de_tasa_Spot_Calculo_de_Forward_Rates.ipynb`: Simulación de tasas spot y cálculo de tasas forward, útil para la valuación de derivados.
 
 ---
 
