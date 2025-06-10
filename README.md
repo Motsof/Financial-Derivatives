@@ -14,7 +14,7 @@ Contiene modelos de portafolios construidos con diferentes combinaciones de acti
 
 ---
 
-##Construcción de la Curva de Tasas Spot y una simulación.
+## Construcción de la Curva de Tasas Spot y una simulación.
 
 Modelos enfocados en la creación y simulación de tasas spot para la valuación de instrumentos derivados:
 
@@ -23,7 +23,7 @@ Modelos enfocados en la creación y simulación de tasas spot para la valuación
 
 ---
 
-##Valuación de Opciones
+## Valuación de Opciones
 
 Ejercicios aplicados para la valuación de opciones financieras europeas, americanas y asiaticas tanto put como call largas:
 
